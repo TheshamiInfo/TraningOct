@@ -1,0 +1,2 @@
+# TraningOct
+OctBatchc Java 
